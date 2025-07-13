@@ -62,5 +62,5 @@ Build a Streamlit web app for real-time predictions
 
 📬 Author
 A. Sanjay Goud
-3rd-Year B.Tech | Data Science & AI
+Final-Year B.Tech | Data Science & AI
 This project was done as part of my AI Internship at Codec Technologies
